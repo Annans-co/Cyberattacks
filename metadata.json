@@ -1,0 +1,6 @@
+{
+  "name": "CyberSentry Live",
+  "description": "Real-time global cybersecurity threat tracker and incident response command center powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
